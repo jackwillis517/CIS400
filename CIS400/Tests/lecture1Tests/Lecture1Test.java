@@ -10,6 +10,6 @@ class Lecture1Test {
 
     @Test
     public static void test1() {
-        Assertions.assertEquals("Hell", Lecture1.speak());
+        Assertions.assertEquals("Hello", Lecture1.speak());
     }
 }
