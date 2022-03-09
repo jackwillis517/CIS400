@@ -1,7 +1,7 @@
 public class Jan27 {
-    public static void main(String[] args) {
-
-    }
+//    public static void main(String[] args) {
+//
+//    }
     public int[] cumulativeSum(int[] data) {
         int[] res = new int[data.length];
         int sum = data[0];
